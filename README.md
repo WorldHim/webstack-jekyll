@@ -4,4 +4,4 @@
 
 > 这是一个纯静态的网址导航网站，内容均由 [viggo](http://viggoz.com/) 收集并整理。项目基于bootstrap前端框架开发。
 
-![](https://webstack.0xl2oot.cn/assets/images/preview.gif)
+![](webstack-worldhim.vercel.app/assets/images/preview.gif)
